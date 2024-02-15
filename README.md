@@ -1,16 +1,16 @@
-### Hi there 👋
+#Charith nikool chavarro
 
-<!--
-**CharithNikool5/CharithNikool5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+este repositorio se van a guardar en CharithNikool5 
 
-Here are some ideas to get you started:
+soy de Tarqui huila, tengo 19 años y vivo ahora mismo en neiva poeque estoy en la u
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estoy en las materias 
+-**calculo**
+-**fisica2**
+-**estructura de datos**
+-**programacion**
+-**etica**
+-**arquitectura**
+
+##contactos 
+correo electronico 
